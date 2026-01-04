@@ -25,7 +25,7 @@ The main focus is readability, structure, and solid fundamentals.
 ## Events
 
 - `Addition(uint256 number1, uint256 number2, uint256 resultado)`: emitted when two numbers are added.  
-- `Substraction(uint256 number1, uint256 number2, uint256 resultado)`: emitted when two numbers are subtracted.
+- `Substraction(uint256 number1, uint256 number2, uint256 resultado)`: emitted when two numbers are subtracted
 
 ## External Functions
 
